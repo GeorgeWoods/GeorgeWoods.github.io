@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lossy VS Lossless</title>
+</head>
+<body bgcolor="#fff8dc" marginwidth="50" marginheight="30">
+
+<center><h1>Lossy VS Lossless</h1></center>
+
+<h3>Lossy:</h3>
+<p></p>
+<p></p>
+<p>Lossy is a form of compression where once the compression has been completed you will lose some of the original data
+    from the file. You would use lossy compression when the user will be almost unable to notice the missing data from
+    the file. For example lossy compression is used a lot in images with jpeg, this is because most of the time the
+    user is unable to notice the missing data from the file.</p>
+<p></p>
+<center><img width="450" height="370" src="http://www.csfieldguide.org.nz/releases/1.9.9/_images/CC-ZoomedJPEGHighlighted.png"></center>
+
+<h3>Lossless:</h3>
+<p></p>
+<p></p>
+<p>Lossless compression is a form of compression where you will not lose any of the original data and the file will be
+    fully restorable to it's original form. Lossless compression is often used with photo editors are they will want
+    the highest amount of quality on their image that they are editing. One exapmple of lossless compression used in
+    images a lot is a png file. A png file will give a much higher quality image compared to a jpeg which is why photo
+    editors like to use it.</p>
+<p></p>
+<center><img width="600" height="400" src="http://www.misucell.com/data/out/12/IMG_486614.png"></center>
+
+</body>
+</html>
